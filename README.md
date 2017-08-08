@@ -1,0 +1,2 @@
+# coinfolio
+Rails/React/Redux 
